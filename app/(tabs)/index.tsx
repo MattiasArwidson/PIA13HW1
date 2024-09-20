@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet } from "react-native";
 
-const lexa1 = () => {
+const HW1 = () => {
   return (
     <View
       style={[
@@ -68,7 +68,7 @@ const lexa1 = () => {
   );
 };
 
-export default lexa1;
+export default HW1;
 
 const styles = StyleSheet.create({
   defaultText: {
